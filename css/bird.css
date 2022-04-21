@@ -38,5 +38,5 @@ body {
     background-image: url(https://img.freepik.com/vecteurs-libre/cartoon-ciel-nuageux-nuages-gonfles-illustration-fond-transparent-ciel-bleu_102902-1923.jpg?w=2000);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 150%;
+    height: 100vh;
 }
